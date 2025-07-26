@@ -1,0 +1,702 @@
+{
+    "users": {
+        "student_0001": {
+            "name": "Aarav Patel",
+            "last_topic": "math",
+            "weak_areas": [
+                "algebra"
+            ],
+            "quiz_history": [
+                {
+                    "topic": "math",
+                    "score": 3
+                },
+                {
+                    "score": 0,
+                    "total": 0,
+                    "timestamp": "Sat Jul 26 10:43:15 2025"
+                },
+                {
+                    "score": 0,
+                    "total": 0,
+                    "timestamp": "Sat Jul 26 11:29:35 2025"
+                }
+            ],
+            "last_score": 1,
+            "history": [
+                {
+                    "topic": "math",
+                    "difficulty": "easy",
+                    "score": 5,
+                    "timestamp": "2025-07-25 11:36:05"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 4,
+                    "timestamp": "2025-07-25 11:42:48"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 3,
+                    "timestamp": "2025-07-25 11:45:44"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 3,
+                    "timestamp": "2025-07-25 12:28:00"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 2,
+                    "timestamp": "2025-07-25 12:40:52"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 4,
+                    "timestamp": "2025-07-25 13:30:53",
+                    "wrong_questions": [
+                        [
+                            "What is 10 / 2?",
+                            "5"
+                        ]
+                    ]
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 3,
+                    "timestamp": "2025-07-25 13:40:03",
+                    "incorrect": [
+                        {
+                            "question": "What is 2 + 2?",
+                            "answer": "4"
+                        },
+                        {
+                            "question": "What comes after 6?",
+                            "answer": "7"
+                        }
+                    ]
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 3,
+                    "timestamp": "2025-07-25 14:01:23",
+                    "incorrect": [
+                        {
+                            "question": "Is 3 a prime number?",
+                            "answer": "Yes"
+                        },
+                        {
+                            "question": "What is 5 - 3?",
+                            "answer": "2"
+                        }
+                    ]
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 2,
+                    "timestamp": "2025-07-25 14:10:52"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 3,
+                    "timestamp": "2025-07-25 14:40:32"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 4,
+                    "timestamp": "2025-07-25 15:04:45"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 4,
+                    "timestamp": "2025-07-25 15:14:06"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 3,
+                    "timestamp": "2025-07-25 15:39:13"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 1,
+                    "timestamp": "2025-07-25 16:38:03"
+                },
+                {
+                    "topic": "Math",
+                    "difficulty": "Easy",
+                    "score": 1,
+                    "timestamp": "2025-07-25 16:52:29"
+                }
+            ],
+            "incorrect_bank": [
+                {
+                    "question": "What is 2 more than 6?",
+                    "answer": "8",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What is 2 \u00d7 3?",
+                    "answer": "6",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What is 4 - 2?",
+                    "answer": "2",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What is 8 / 4?",
+                    "answer": "2",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What number is double of 4?",
+                    "answer": "8",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What is 3 less than 12?",
+                    "answer": "9",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What is 3 more than 8?",
+                    "answer": "11",
+                    "topic": "math",
+                    "difficulty": "easy"
+                },
+                {
+                    "question": "What is 8 + 2?",
+                    "answer": "10",
+                    "topic": "math",
+                    "difficulty": "easy"
+                }
+            ]
+        },
+        "student_0002": {
+            "name": "Ishita Sharma",
+            "last_topic": "science",
+            "weak_areas": [
+                "biology"
+            ],
+            "quiz_history": [
+                {
+                    "topic": "science",
+                    "score": 2
+                }
+            ]
+        },
+         "student_0003": {
+      "name": "Kabir Verma",
+      "last_topic": "math",
+      "weak_areas": ["fractions"]
+    },
+    "student_0004": {
+      "name": "Meera Nair",
+      "last_topic": "science",
+      "weak_areas": ["physics"]
+    },
+    "student_0005": {
+      "name": "Rohan Mehta",
+      "last_topic": "math",
+      "weak_areas": ["geometry"]
+    },
+    "student_0006": {
+      "name": "Diya Sinha",
+      "last_topic": "science",
+      "weak_areas": ["chemistry"]
+    },
+    "student_0007": {
+      "name": "Yash Gupta",
+      "last_topic": "math",
+      "weak_areas": ["trigonometry"]
+    },
+    "student_0008": {
+      "name": "Simran Kaur",
+      "last_topic": "science",
+      "weak_areas": ["ecology"]
+    },
+    "student_0009": {
+      "name": "Arjun Reddy",
+      "last_topic": "math",
+      "weak_areas": ["percentages"]
+    },
+    "student_0010": {
+      "name": "Ananya Das",
+      "last_topic": "science",
+      "weak_areas": ["genetics"]
+    },
+    "student_0011": {
+      "name": "Krishna Rao",
+      "last_topic": "math",
+      "weak_areas": ["algebra"]
+    },
+    "student_0012": {
+      "name": "Sneha Iyer",
+      "last_topic": "science",
+      "weak_areas": ["physics"]
+    },
+    "student_0013": {
+      "name": "Rahul Yadav",
+      "last_topic": "math",
+      "weak_areas": ["mensuration"]
+    },
+    "student_0014": {
+      "name": "Priya Chawla",
+      "last_topic": "science",
+      "weak_areas": ["biology"]
+    },
+    "student_0015": {
+      "name": "Aditya Joshi",
+      "last_topic": "math",
+      "weak_areas": ["ratios"]
+    },
+    "student_0016": {
+      "name": "Tanya Bansal",
+      "last_topic": "science",
+      "weak_areas": ["cells"]
+    },
+    "student_0017": {
+      "name": "Karan Singh",
+      "last_topic": "math",
+      "weak_areas": ["linear equations"]
+    },
+    "student_0018": {
+      "name": "Riya Kapoor",
+      "last_topic": "science",
+      "weak_areas": ["magnetism"]
+    },
+    "student_0019": {
+      "name": "Manav Dixit",
+      "last_topic": "math",
+      "weak_areas": ["statistics"]
+    },
+    "student_0020": {
+      "name": "Pooja Jain",
+      "last_topic": "science",
+      "weak_areas": ["electricity"]
+    },
+    "student_0021": {
+      "name": "Sahil Aggarwal",
+      "last_topic": "math",
+      "weak_areas": ["geometry"]
+    },
+    "student_0022": {
+      "name": "Neha Roy",
+      "last_topic": "science",
+      "weak_areas": ["nutrition"]
+    },
+    "student_0023": {
+      "name": "Varun Kaul",
+      "last_topic": "math",
+      "weak_areas": ["algebra"]
+    },
+    "student_0024": {
+      "name": "Shreya Bhatt",
+      "last_topic": "science",
+      "weak_areas": ["acid-base"]
+    },
+    "student_0025": {
+      "name": "Dev Malik",
+      "last_topic": "math",
+      "weak_areas": ["decimals"]
+    },
+    "student_0026": {
+      "name": "Ayesha Sheikh",
+      "last_topic": "science",
+      "weak_areas": ["ecosystem"]
+    },
+    "student_0027": {
+      "name": "Harsh Raj",
+      "last_topic": "math",
+      "weak_areas": ["probability"]
+    },
+    "student_0028": {
+      "name": "Nisha Pillai",
+      "last_topic": "science",
+      "weak_areas": ["plants"]
+    },
+    "student_0029": {
+      "name": "Tanmay Ghosh",
+      "last_topic": "math",
+      "weak_areas": ["fractions"]
+    },
+    "student_0030": {
+      "name": "Ankita Rane",
+      "last_topic": "science",
+      "weak_areas": ["nervous system"]
+    },
+    "student_0031": {
+      "name": "Jayant Kumar",
+      "last_topic": "math",
+      "weak_areas": ["number series"]
+    },
+    "student_0032": {
+      "name": "Divya Sen",
+      "last_topic": "science",
+      "weak_areas": ["reproduction"]
+    },
+    "student_0033": {
+      "name": "Nikhil Batra",
+      "last_topic": "math",
+      "weak_areas": ["percentages"]
+    },
+    "student_0034": {
+      "name": "Ira Khanna",
+      "last_topic": "science",
+      "weak_areas": ["gravity"]
+    },
+    "student_0035": {
+      "name": "Vikas Anand",
+      "last_topic": "math",
+      "weak_areas": ["time and work"]
+    },
+    "student_0036": {
+      "name": "Sana Mirza",
+      "last_topic": "science",
+      "weak_areas": ["heat"]
+    },
+    "student_0037": {
+      "name": "Parth Sharma",
+      "last_topic": "math",
+      "weak_areas": ["simple interest"]
+    },
+    "student_0038": {
+      "name": "Nandini Chauhan",
+      "last_topic": "science",
+      "weak_areas": ["sound"]
+    },
+    "student_0039": {
+      "name": "Rajat Dubey",
+      "last_topic": "math",
+      "weak_areas": ["area and volume"]
+    },
+    "student_0040": {
+      "name": "Sneha Reddy",
+      "last_topic": "science",
+      "weak_areas": ["water cycle"]
+    },
+    "student_0041": {
+      "name": "Amarjeet Yadav",
+      "last_topic": "math",
+      "weak_areas": ["equations"]
+    },
+    "student_0042": {
+      "name": "Mehak Kohli",
+      "last_topic": "science",
+      "weak_areas": ["photosynthesis"]
+    },
+    "student_0043": {
+      "name": "Deepak Sethi",
+      "last_topic": "math",
+      "weak_areas": ["division"]
+    },
+    "student_0044": {
+      "name": "Kritika Mehra",
+      "last_topic": "science",
+      "weak_areas": ["atoms"]
+    },
+    "student_0045": {
+      "name": "Rudra Tiwari",
+      "last_topic": "math",
+      "weak_areas": ["speed"]
+    },
+    "student_0046": {
+      "name": "Suhana Zaveri",
+      "last_topic": "science",
+      "weak_areas": ["respiration"]
+    },
+    "student_0047": {
+      "name": "Ishaan Vyas",
+      "last_topic": "math",
+      "weak_areas": ["multiples"]
+    },
+    "student_0048": {
+      "name": "Lavanya Jain",
+      "last_topic": "science",
+      "weak_areas": ["blood circulation"]
+    },
+    "student_0049": {
+      "name": "Zayan Ali",
+      "last_topic": "math",
+      "weak_areas": ["lcm and hcf"]
+    },
+    "student_0050": {
+      "name": "Mitali Sarkar",
+      "last_topic": "science",
+      "weak_areas": ["living organisms"]
+    },
+    "student_0051": {
+      "name": "meena Verma",
+      "last_topic": "math",
+      "weak_areas": ["fractions"]
+    },
+    "student_0052": {
+      "name": "Meera Nair",
+      "last_topic": "science",
+      "weak_areas": ["physics"]
+    },
+    "student_0053": {
+      "name": "Rohini",
+      "last_topic": "math",
+      "weak_areas": ["geometry"]
+    },
+    "student_0054": {
+      "name": "divya Sinha",
+      "last_topic": "science",
+      "weak_areas": ["chemistry"]
+    },
+    "student_0055": {
+      "name": "Yash saxena",
+      "last_topic": "math",
+      "weak_areas": ["trigonometry"]
+    },
+    "student_0056": {
+      "name": "Sini Kaur",
+      "last_topic": "science",
+      "weak_areas": ["ecology"]
+    },
+    "student_0057": {
+      "name": "Akash Reddy",
+      "last_topic": "math",
+      "weak_areas": ["percentages"]
+    },
+    "student_0058": {
+      "name": "Anana Das",
+      "last_topic": "science",
+      "weak_areas": ["genetics"]
+    },
+    "student_0059": {
+      "name": "Krishi Rao",
+      "last_topic": "math",
+      "weak_areas": ["algebra"]
+    },
+    "student_0060": {
+      "name": "neha Iyer",
+      "last_topic": "science",
+      "weak_areas": ["physics"]
+    },
+    "student_0061": {
+      "name": "Rina Yadav",
+      "last_topic": "math",
+      "weak_areas": ["mensuration"]
+    },
+    "student_0062": {
+      "name": "Priyanshi Chawla",
+      "last_topic": "science",
+      "weak_areas": ["biology"]
+    },
+    "student_0063": {
+      "name": "Aditi Joshi",
+      "last_topic": "math",
+      "weak_areas": ["ratios"]
+    },
+    "student_0064": {
+      "name": "Taniya Bansal",
+      "last_topic": "science",
+      "weak_areas": ["cells"]
+    },
+    "student_0065": {
+      "name": "Kiran Singh",
+      "last_topic": "math",
+      "weak_areas": ["linear equations"]
+    },
+    "student_0066": {
+      "name": "Rina Kapoor",
+      "last_topic": "science",
+      "weak_areas": ["magnetism"]
+    },
+    "student_0067": {
+      "name": "Meenakshi Dixit",
+      "last_topic": "math",
+      "weak_areas": ["statistics"]
+    },
+    "student_0068": {
+      "name": "Pooja Saxena",
+      "last_topic": "science",
+      "weak_areas": ["electricity"]
+    },
+    "student_0069": {
+      "name": "Simran Aggarwal",
+      "last_topic": "math",
+      "weak_areas": ["geometry"]
+    },
+    "student_0070": {
+      "name": "Megha Roy",
+      "last_topic": "science",
+      "weak_areas": ["nutrition"]
+    },
+    "student_0071": {
+      "name": "Ajay Kaul",
+      "last_topic": "math",
+      "weak_areas": ["algebra"]
+    },
+    "student_0072": {
+      "name": "Simraa Bhatt",
+      "last_topic": "science",
+      "weak_areas": ["acid-base"]
+    },
+    "student_0073": {
+      "name": "Divyanshi Malik",
+      "last_topic": "math",
+      "weak_areas": ["decimals"]
+    },
+    "student_0074": {
+      "name": "Ayush Sheikh",
+      "last_topic": "science",
+      "weak_areas": ["ecosystem"]
+    },
+    "student_0075": {
+      "name": "Harshi Raj",
+      "last_topic": "math",
+      "weak_areas": ["probability"]
+    },
+    "student_0076": {
+      "name": "Nishta Pillai",
+      "last_topic": "science",
+      "weak_areas": ["plants"]
+    },
+    "student_0078": {
+      "name": "Tavaniya Ghosh",
+      "last_topic": "math",
+      "weak_areas": ["fractions"]
+    },
+    "student_0079": {
+      "name": "Anki Rane",
+      "last_topic": "science",
+      "weak_areas": ["nervous system"]
+    },
+    "student_0080": {
+      "name": "Jay Kumar",
+      "last_topic": "math",
+      "weak_areas": ["number series"]
+    },
+    "student_0081": {
+      "name": "Dev Sen",
+      "last_topic": "science",
+      "weak_areas": ["reproduction"]
+    },
+    "student_0082": {
+      "name": "Nikita Batra",
+      "last_topic": "math",
+      "weak_areas": ["percentages"]
+    },
+    "student_0083": {
+      "name": "Ishita Khanna",
+      "last_topic": "science",
+      "weak_areas": ["gravity"]
+    },
+    "student_0084": {
+      "name": "Vanshika Anand",
+      "last_topic": "math",
+      "weak_areas": ["time and work"]
+    },
+    "student_0085": {
+      "name": "Saniya Mirza",
+      "last_topic": "science",
+      "weak_areas": ["heat"]
+    },
+    "student_0086": {
+      "name": "Pragati Sharma",
+      "last_topic": "math",
+      "weak_areas": ["simple interest"]
+    },
+    "student_0087": {
+      "name": "Nand Chauhan",
+      "last_topic": "science",
+      "weak_areas": ["sound"]
+    },
+    "student_0088": {
+      "name": "Rajiv Dubey",
+      "last_topic": "math",
+      "weak_areas": ["area and volume"]
+    },
+    "student_0089": {
+      "name": "Shalu Reddy",
+      "last_topic": "science",
+      "weak_areas": ["water cycle"]
+    },
+    "student_0090": {
+      "name": "Amar Yadav",
+      "last_topic": "math",
+      "weak_areas": ["equations"]
+    },
+    "student_0091": {
+      "name": "Mohini Kohli",
+      "last_topic": "science",
+      "weak_areas": ["photosynthesis"]
+    },
+    "student_0092": {
+      "name": "Dipika Sethi",
+      "last_topic": "math",
+      "weak_areas": ["division"]
+    },
+    "student_0093": {
+      "name": "Kriti Mehra",
+      "last_topic": "science",
+      "weak_areas": ["atoms"]
+    },
+    "student_0094": {
+      "name": "Rudrash Tiwari",
+      "last_topic": "math",
+      "weak_areas": ["speed"]
+    },
+    "student_0095": {
+      "name": "Soniya Zaveri",
+      "last_topic": "science",
+      "weak_areas": ["respiration"]
+    },
+    "student_0096": {
+      "name": "Ishita Vyas",
+      "last_topic": "math",
+      "weak_areas": ["multiples"]
+    },
+    "student_0097": {
+      "name": "Lavya Jain",
+      "last_topic": "science",
+      "weak_areas": ["blood circulation"]
+    },
+    "student_0098": {
+      "name": "Zara Ali",
+      "last_topic": "math",
+      "weak_areas": ["lcm and hcf"]
+    },
+    "student_0099": {
+      "name": "Meenashi Sarkar",
+      "last_topic": "science",
+      "weak_areas": ["living organisms"]
+    },
+     "student_0100": {
+            "name": "Neema",
+            "last_topic": "history",
+            "weak_areas": [
+                "world war"
+            ],
+            "quiz_history": [
+                {
+                    "topic": "history",
+                    "score": 1
+                }
+            ]
+        }
+}
+}
